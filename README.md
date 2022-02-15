@@ -7,7 +7,6 @@
 - ansible
 - linux
 - vim
-- aws
 
 Задача 0:
 
